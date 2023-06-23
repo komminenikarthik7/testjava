@@ -1,8 +1,8 @@
-package training.taylor.timetracker.core.dao;
+package training.taylor.timetracker.core;
 
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
-
+import training.taylor.timetracker.core.dao.TimeEntry;
 /**
  * Created by Jason on 6/19/2015.
  */
